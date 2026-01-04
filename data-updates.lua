@@ -11,3 +11,5 @@ data.raw["mining-drill"]["kr-electric-mining-drill-mk3"].drops_full_belt_stacks 
 -- Stackable Superior Inserters
 data_util.replace_or_add_ingredient("kr-superior-inserter", "bulk-inserter", "stack-inserter", 1)
 data_util.replace_or_add_ingredient("kr-superior-long-inserter", "bulk-inserter", "stack-inserter", 1)
+data_util.remove_ingredient("kr-advanced-greenhouse","productivity-module-4")
+data_util.remove_ingredient("kr-advanced-bio-lab","productivity-module-4")
