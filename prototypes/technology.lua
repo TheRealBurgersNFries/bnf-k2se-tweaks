@@ -2,8 +2,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-productivity-1",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage1.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage1.png",
     effects = 
     {
         {
@@ -34,8 +34,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-productivity-2",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage1.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage1.png",
     effects = 
     {
         {
@@ -67,8 +67,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-productivity-2",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage1.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage1.png",
     effects = 
     {
         {
@@ -102,8 +102,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-filling-productivity-1",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage2.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage2.png",
     effects = 
     {
         {
@@ -133,7 +133,7 @@ data:extend({
         },
         {
             type = "change-recipe-productivity",
-            recipe = "rsc-construction-stage6sespr",
+            recipe = "rsc-construction-stage6-sesprs",
             change = 0.1
         },
 
@@ -155,8 +155,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-filling-productivity-2",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage2.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage2.png",
     effects = 
     {
         {
@@ -186,7 +186,7 @@ data:extend({
         },
         {
             type = "change-recipe-productivity",
-            recipe = "rsc-construction-stage6sespr",
+            recipe = "rsc-construction-stage6-sesprs",
             change = 0.1
         },
 
@@ -209,8 +209,8 @@ data:extend({
 {
     type = "technology",
     name = "silo-hole-filling-productivity-3",
-    icon_size = 256,
-    icon = "__rocket-silo-construction__/graphics/icon/stage2.png",
+    icon_size = 64,
+    icon = "__Rocket-Silo-Construction__/graphics/icon/stage2.png",
     effects = 
     {
         {
@@ -240,7 +240,7 @@ data:extend({
         },
         {
             type = "change-recipe-productivity",
-            recipe = "rsc-construction-stage6sespr",
+            recipe = "rsc-construction-stage6-sesprs",
             change = 0.1
         },
 
