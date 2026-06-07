@@ -6,9 +6,10 @@ data.raw["cargo-wagon"]["space-cargo-wagon"].inventory_size = 80
 data.raw["fluid-wagon"]["space-fluid-wagon"].capacity = 100000
 -- SE 
 data.raw["mining-drill"]["area-mining-drill"].drops_full_belt_stacks = true
-data.raw["mining-drill"]["area-mining-drill"].resource_dratin_rate_percent = 50
+data.raw["mining-drill"]["area-mining-drill"].resource_drain_rate_percent = 50
 -- K2
 data.raw["mining-drill"]["kr-electric-mining-drill-mk3"].drops_full_belt_stacks = true
+data.raw["mining-drill"]["area-mining-drill"].resource_drain_rate_percent = 40
 -- Stackable Superior Inserters
 data_util.replace_or_add_ingredient("kr-superior-inserter", "bulk-inserter", "stack-inserter", 1)
 data_util.replace_or_add_ingredient("kr-superior-long-inserter", "bulk-inserter", "stack-inserter", 1)
