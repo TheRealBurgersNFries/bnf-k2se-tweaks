@@ -1,7 +1,7 @@
 {
     "name": "bnf-k2se-tweaks",
     "title": "BnF K2SE Tweaks",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "author": "BurgersNFries",
     "factorio_version": "2.0",
     "dependencies":[
@@ -9,7 +9,8 @@
         "se-space-trains >= 1.0.11",
         "space-exploration >= 0.7.39",
         "StackableSuperiorInserters >= 1.0.0",
-        "advanced-biological-sek2-mod >= 1.0.2"
+        "advanced-biological-sek2-mod >= 1.0.2",
+        "rocket-silo-construction >= 2.0.7"
     ],
     "space_travel_required": true,
     "description": "A handful of Entity tweaks for an ongoing k2se run. Mod uploaded for mp support"
