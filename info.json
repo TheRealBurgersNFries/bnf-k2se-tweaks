@@ -1,7 +1,7 @@
 {
     "name": "bnf-k2se-tweaks",
     "title": "BnF K2SE Tweaks",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "author": "BurgersNFries",
     "factorio_version": "2.0",
     "dependencies":[
